@@ -1,1 +1,1 @@
-# Kufa-Template-design.github.io
+# Kufa-Template-design
